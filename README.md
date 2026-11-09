@@ -62,4 +62,4 @@ O projeto está configurado para deploy automático no GitHub Pages:
 3. **URL final:**
    - `https://sergiosrdev.github.io/arcadenoe/`
 
-**Importante:** O `vite.config.js` já está configurado com `base: '/arcadenoe/'` para funcionar corretamente no GitHub Pages.
+Os caminhos dos arquivos do build são relativos. A pasta `dist/` funciona tanto na raiz de um domínio quanto em um subdiretório como `/arcadenoe/`.
