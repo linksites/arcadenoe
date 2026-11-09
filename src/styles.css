@@ -670,19 +670,19 @@ h4 {
   }
 
   .hero-media {
-    width: min(100%, 430px);
-    justify-self: start;
+    width: min(100%, 340px);
+    justify-self: center;
     padding: 6px;
     border-radius: 26px;
   }
 
   .hero-card {
-    aspect-ratio: 1;
+    aspect-ratio: 3 / 4;
     border-radius: 20px;
   }
 
   .hero-card img {
-    top: -28%;
+    top: -12%;
   }
 
   .services-grid {
